@@ -1,15 +1,13 @@
-# Hydra
+# Etsia
 
 Marketing site template for Jekyll. Browse through a [live demo](https://proud-alligator.cloudvent.net/).
 Increase the web presence of your brand with this configurable theme.
 
-![Hydra template screenshot](images/_screenshot.png)
+![Etsia template screenshot](images/_screenshot.png)
 
-Hydra was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
+Etsia was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
 Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
-
-[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/hydra-jekyll-template)
 
 ## Features
 
@@ -50,7 +48,7 @@ $ bundle exec jekyll serve
 
 ## Editing
 
-Hydra is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.
+Etsia is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.
 
 ### Posts
 

@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: Etsia
+url: "https://etsia.io"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,15 +10,15 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: Your data discovered!
 author:
   name:
-  email:
+  email: ben@etsia.io
   twitter: # twitter username without the @ symbol
 social:
-  name: Hydra Template
+  name: Etsia
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - https://etsia.io
 
 # -----
 # Build
