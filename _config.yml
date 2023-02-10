@@ -2,7 +2,7 @@
 # Site
 
 title: Etsia
-url: "https://etsia.io"
+url: "https://etsia.ca"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -13,12 +13,12 @@ logo: /siteicon.png
 description: Your data discovered!
 author:
   name:
-  email: ben@etsia.io
+  email: ben@etsia.ca
   twitter: # twitter username without the @ symbol
 social:
   name: Etsia
   links:
-    - https://etsia.io
+    - https://etsia.ca
 
 # -----
 # Build
